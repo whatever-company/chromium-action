@@ -1,0 +1,1 @@
+{ "extends": ["github>whatever-company/renovate-config"], "masterIssue": true }
