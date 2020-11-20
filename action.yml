@@ -2,4 +2,4 @@ name: "Chromium action"
 description: "Launch a chromium instance in a docker"
 runs:
   using: "docker"
-  image: "Dockerfile"
+  image: "docker://ghcr.io/whatever-company/elium/product/puppeteer-chromium:latest"
